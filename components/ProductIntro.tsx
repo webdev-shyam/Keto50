@@ -37,9 +37,10 @@ export default function ProductIntro() {
                 Meet {PRODUCT_NAME}
               </h2>
               <p className="mt-5 text-lg leading-relaxed text-cocoa-600">
-                {PRODUCT_NAME} is a dessert-focused digital cookbook created for
-                people 50 and older who follow a keto or low-carb way of eating
-                — and still want something sweet at the end of a meal.
+                {PRODUCT_NAME} is a recipe collection available with digital
+                access, with the current offer also including physical books and
+                two bonus collections. Check the official offer page for the
+                latest pricing, delivery and format details.
               </p>
               <p className="mt-4 leading-relaxed text-cocoa-600">
                 Inside, you’ll find dessert recipes built around low-carb,

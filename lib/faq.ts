@@ -23,7 +23,7 @@ export const FAQ_ITEMS: FaqItem[] = [
   {
     question: "Is this a physical cookbook or a digital product?",
     answer:
-      "It is a digital product. After ordering, you receive downloadable content that you can read on a phone, tablet or computer. It is not a printed book that gets shipped to your door — you can check the exact format and delivery details on the official offer page.",
+      "The current offer includes the Keto After 50 Desserts program with digital access, and the offer may also include physical books. Availability, pricing, shipping and delivery details can change, so check the official offer page before purchasing.",
   },
   {
     question: "How do I get access?",
