@@ -12,8 +12,8 @@ export const PRODUCT_NAME = "Keto After 50 Desserts";
 
 /** Public domain, used for canonical URL, sitemap and Open Graph metadata. */
 export const SITE_URL = (
-  process.env.NEXT_PUBLIC_SITE_URL || "https://your-domain.com"
+  process.env.NEXT_PUBLIC_SITE_URL || "https://ketoafter50.vercel.app/"
 ).replace(/\/$/, "");
 
 /** TODO: replace with your real contact address. */
-export const CONTACT_EMAIL = "hello@your-domain.com";
+export const CONTACT_EMAIL = "contact@vynoramarket.me";
