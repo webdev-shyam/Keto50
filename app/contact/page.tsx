@@ -28,13 +28,6 @@ export default function ContactPage() {
             {CONTACT_EMAIL}
           </a>
         </p>
-        <p className="mt-3 text-sm text-cocoa-500">
-          Replace this placeholder address with your own in{" "}
-          <code className="break-all rounded bg-cream-100 px-1.5 py-0.5 text-xs font-bold text-cocoa-700">
-            lib/site.ts
-          </code>{" "}
-          before launch.
-        </p>
       </div>
 
       <div className="rounded-3xl bg-cream-100/70 p-7 ring-1 ring-cocoa-100/70 sm:p-8">
@@ -56,8 +49,8 @@ export default function ContactPage() {
         </h2>
         <p className="mt-3">
           We aim to describe products fairly and accurately. If you believe any
-          information on this page is outdated or incorrect, please email us
-          and we will review it as soon as possible.
+          information on this page is outdated or incorrect, please email us and
+          we will review it as soon as possible.
         </p>
       </div>
     </LegalShell>

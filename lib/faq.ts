@@ -13,7 +13,7 @@ export const FAQ_ITEMS: FaqItem[] = [
   {
     question: "What is Keto After 50 Desserts?",
     answer:
-      "Keto After 50 Desserts is a digital cookbook of dessert recipes created with keto and low-carb lifestyles in mind, aimed especially at people 50 and older. It is published by Nutrition Hacks and sold through the Digistore24 platform.",
+      "The current offer includes the Keto After 50 Desserts program with digital access, and the offer may also include physical books. Availability, pricing, shipping and delivery details can change, so check the official offer page before purchasing.",
   },
   {
     question: "Who is this recipe collection intended for?",

@@ -26,14 +26,10 @@ export default function LegalShell({
       <h1 className="mt-6 font-display text-3xl font-semibold tracking-tight text-cocoa-900 sm:text-4xl">
         {title}
       </h1>
-      {subtitle && <p className="mt-3 leading-relaxed text-cocoa-600">{subtitle}</p>}
-      {templateNote && (
-        <div className="mt-6 rounded-2xl bg-moss-50 px-5 py-4 text-sm leading-relaxed text-moss-800 ring-1 ring-moss-200">
-          <strong>Template note:</strong> this page is a starting template.
-          Replace the [placeholders] with your own details before you publish
-          the site.
-        </div>
+      {subtitle && (
+        <p className="mt-3 leading-relaxed text-cocoa-600">{subtitle}</p>
       )}
+
       <div className="mt-8 space-y-8 text-base leading-relaxed text-cocoa-600">
         {children}
       </div>
