@@ -1,0 +1,15 @@
+/** Small brand mark: a cupcake in the site's warm palette. */
+export default function Logo({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 64 64" className={className} aria-hidden="true">
+      <rect width="64" height="64" rx="15" fill="#2B1F16" />
+      <path d="M17 31c0-9.5 6.7-14 15-14s15 4.5 15 14H17Z" fill="#C9A47E" />
+      <path d="M15 31h34v3a17 17 0 0 1-34 0v-3Z" fill="#FBF7EF" />
+      <path d="M15 34h34v2.5a17 17 0 0 1-34 0V34Z" fill="#EFE3CC" />
+      <rect x="13" y="48" width="38" height="7" rx="3.5" fill="#EFE3CC" />
+      <circle cx="32" cy="12" r="5.5" fill="#9C3B3B" />
+      <circle cx="33.8" cy="10.3" r="1.8" fill="#F1D8D4" />
+      <ellipse cx="44" cy="23" rx="5" ry="2.8" fill="#5C7A57" transform="rotate(-22 44 23)" />
+    </svg>
+  );
+}
